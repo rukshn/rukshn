@@ -1,5 +1,7 @@
 ### Hi there 👋
-![arkruka@gmail.com](https://art.pixilart.com/4b680819d6447f3.gif)
+
+Welcome to my GitHub profile 🔭
+
 <!--
 **rukshn/rukshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
