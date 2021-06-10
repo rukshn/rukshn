@@ -8,6 +8,8 @@ I have no idea when I will return to my MSc 🙅‍♂️
 
 Meanwhile I'm working on HyperTables an open-source project to create a UI for databases to easily perfom CURD actions inspired by AirTable and Excel.
 
+https://github.com/rukshn/hypertables
+
 I love working with Javascript, NodeJS and other web technologies.
 
 I love making new things. If you have project which needs help let me know, I'm happy to provide you a hand.
