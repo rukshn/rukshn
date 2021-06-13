@@ -14,6 +14,8 @@ I love making new things. If you have project which needs help let me know, I'm 
 
 Read my blog - https://ruky.me
 
+I occationally get into troble by putting my nose where I should not - https://github.com/rukshn/rukshn.github.io/blob/master/archives/easter/egg.md
+
 <!--
 **rukshn/rukshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
