@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile ✨
 
-I'm Rukshan, currently following my MSc in Health Informatics or so I've been told. Even though I have been working on a COVID-19 ICU for the past few months.
-
-I have no idea when I will return to my MSc 🙅‍♂️
+I'm Rukshan, currently following my MSc in Health Informatics or so I've been told. 
 
 Meanwhile I'm working on HyperTables an open-source project to create a UI for databases to easily perfom CURD actions inspired by AirTable and Excel.
 
