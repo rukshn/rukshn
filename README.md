@@ -4,9 +4,11 @@ Welcome to my GitHub profile ✨
 
 I'm Rukshan, currently following my MSc in Health Informatics.
 
-Interested in interoperability in healthcare 
-Health informatics
-Digital health 
+Interested in 
+
+* Interoperability in healthcare 
+* Health informatics
+* Digital health 
 
 I love making new things. If you have project which needs help let me know, I'm happy to provide you a hand.
 
