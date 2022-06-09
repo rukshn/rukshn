@@ -14,6 +14,8 @@ I love making new things. If you have project which needs help let me know, I'm 
 
 Read my blog - https://ruky.me
 
+![Rukshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukshn)
+
 <!--
 **rukshn/rukshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
