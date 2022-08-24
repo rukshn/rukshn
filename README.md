@@ -10,7 +10,7 @@ Interested in
 * Health informatics
 * Digital health 
 
-I love making new things. If you have project which needs help let me know, I'm happy to provide you a hand.
+I love making new things. If you have project and you're in need help, let me know, I'm happy to provide you a hand.
 
 * 💬 Read my blog - https://ruky.me
 * ☕ Buy me a coffee - https://buymeacoffee.com/rukshan
