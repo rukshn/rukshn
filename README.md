@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile ✨
-
 I'm Rukshan, currently following my MSc in Health Informatics.
 
 Interested in 
 
-* Interoperability in healthcare 
-* Health informatics
-* Digital health 
+* Interoperability in healthcare
+* Digital health systems development and implementation
+* Health inforamtics 
+* Open data governence 
 
 I love making new things. If you have project and you're in need help, let me know, I'm happy to provide you a hand.
 
