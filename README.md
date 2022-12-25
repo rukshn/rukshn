@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there ![](https://raw.githubusercontent.com/Flaque/Flaque/master/bubble.gif)
 
 I'm Rukshan, currently following my MSc in Health Informatics.
 
