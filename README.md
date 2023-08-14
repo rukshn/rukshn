@@ -1,6 +1,6 @@
 # Hi there ![](https://raw.githubusercontent.com/Flaque/Flaque/master/bubble.gif)
 
-I'm Rukshan, currently following my MSc in Health Informatics.
+I'm Rukshan, currently working as a Health Informatics Specialist at the Swiss Tropical and Public Health Institute.
 
 Interested in 
 
