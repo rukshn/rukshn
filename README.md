@@ -1,5 +1,3 @@
-# HOI
-
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 I'm Rukshan, currently working as a Health Informatics Specialist at the Swiss Tropical and Public Health Institute.
