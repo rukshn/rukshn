@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Koi
-        uses: yalongwastaken/git-profile-koi@v1.0.2 # Or point to the latest tag/version
+        uses: yalongwastaken/git-koi@v1.0.2 # Or point to the latest tag/version
         with:
           login: ${{ github.repository_owner }}
           body: "white" # Optional: body color choice (options include white, black, asagi, tea, gold, platinum)
