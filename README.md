@@ -2,16 +2,20 @@
 
 I'm Rukshan, currently working as a Health Informatics Specialist at the Swiss Tropical and Public Health Institute.
 
-Interested in 
+- 🔭 I am currently working on - [Alma](https://almacare.ch) and [Entangle](https://entangle.ch)
+- 🌱 I am currently learning - Svelte
+- ⚡ Fun fact: If you ask me what's my purpose, I love making things that people use.
 
-* Interoperability in healthcare
-* Digital health systems development and implementation
-* Health inforamtics 
-* Open data governence 
+Interested in,
 
-I love making new things. If you have project and you're in need help, let me know, I'm happy to provide you a hand.
+- 🔥 Interoperability in healthcare - FHIR 
+- 🏥 Digital health systems development and implementation
+- 🤔 Health inforamtics 
+- 💬 Open data governence 
 
-* 💬 Read my blog - https://ruky.me
+**I love making new things. If you have project and you're in need help, let me know, I'm happy to provide you a hand.**
+
+* ✍️ Read my blog - https://ruky.me
 * ☕ Buy me a coffee - https://buymeacoffee.com/rukshan
 * 📫 How to reach me - rukshan@ruky.me
 <!--
