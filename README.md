@@ -1,4 +1,6 @@
-I'm Rukshan, currently working as a Health Informatics Specialist at the Swiss Tropical and Public Health Institute.
+![My Git Koi](./koi/koi.gif)
+
+HI HI 👋, I'm Rukshan, currently working as a Health Informatics Specialist at the Swiss Tropical and Public Health Institute.
 
 - 🔭 I am currently working on - [Alma](https://almacare.ch) and [Entangle](https://entangle.ch)
 - 🌱 I am currently learning - Svelte
