@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-night-view.svg)
-
 I'm Rukshan, currently working as a Health Informatics Specialist at the Swiss Tropical and Public Health Institute.
 
 - 🔭 I am currently working on - [Alma](https://almacare.ch) and [Entangle](https://entangle.ch)
